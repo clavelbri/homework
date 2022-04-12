@@ -3,19 +3,37 @@
 <head>
 <style>
 body {
-  background-color: pink;
+  background-color:paleturquoise;
 }
 
 h1 {
-  color: green;
-  margin-left: 40px;
-}
+  text-align: center;
+  color: hotpink;
+  margin: 40px;
+  font-family: cursive;
+  font-size: 300%;
+
+
 </style>
 </head>
 <body>
 
-<h1>Homework Four Design Elements</h1>
-<p>This is a paragraph.</p>
+<h1>Design Elements Homework 4</h1>
+
+ <h2> <a href="https://www.haring.com/"> 
+ The Keith Haring Foundation website
+    </a> </h2>
+    
+    <br>
+    The Keith Haring Foundation website is a good example of the use of contrast:
+    <ul>
+<li>The colors red and black on the main page create effective contrast that is representative of Keith Haring's artwork</li>
+<img src=">
+<li></li>
+<li>Bullet Point #3</li>
+</ul> 
+
+</p>
 
 </body>
 </html>
