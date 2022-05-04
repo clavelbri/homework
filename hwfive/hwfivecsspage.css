@@ -1,9 +1,9 @@
 
 
-body { font-family: fantasy; color: olive; background-color: lavender;}
+body { font-family: 'Courier New', Courier, monospace; color: olive; background-color: lavender;}
 
 /* The code below modifies all the content within the <h1> tags */
 
 h1 { font-family:fantasy; color:orange; }
 
-p { border-style: dotted;}
+p { border-style: dashed;}
