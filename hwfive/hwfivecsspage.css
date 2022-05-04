@@ -1,9 +1,11 @@
 
+h1 { font-family: Gill Sans; color:orange; }
 
-body { font-family: 'Courier New', Courier, monospace; color: olive; background-color: lavender;}
+h4 { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+body { font-family: fantasy; color: olive; background-color: lavender;}
 
 /* The code below modifies all the content within the <h1> tags */
 
-h1 { font-family:fantasy; color:orange; }
 
 p { border-style: dashed;}
