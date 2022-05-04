@@ -1,7 +1,11 @@
 
 h1 { font-family: fantasy; color:orange; }
 
+<<<<<<< HEAD
+h4 { font-family: Impact, sans-serif; color: orchid;}
+=======
 h4 { font-family: 'Gill Sans',, sans-serif, sans-serif; color: blue; }
+>>>>>>> 26c3d5b4b2b8c2aa096b0089ae8750b1fff52776
 
 body { font-family: Cambria; color: olive; background-color: lavender;}
 
