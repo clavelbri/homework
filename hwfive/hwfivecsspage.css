@@ -5,3 +5,5 @@ body { font-family: fantasy; color: olive; background-color: lavender;}
 /* The code below modifies all the content within the <h1> tags */
 
 h1 { font-family:fantasy; color:orange; }
+
+p.dotted {border-style: dotted;}
